@@ -200,6 +200,10 @@ body {
         padding: 2rem 0;
     }
 
+    .rating-title {
+        font-size: 2rem;
+    }
+
     .rating-description {
         max-width: 80%;
     }
