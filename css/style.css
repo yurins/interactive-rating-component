@@ -224,6 +224,10 @@ body {
     }
 
     .thank-you-title {
-        margin: 2rem auto;
+        margin: 2rem auto 1rem auto;
+    }
+
+    .thank-you-message {
+        max-width: 80%;
     }
 }
