@@ -50,6 +50,7 @@ body {
     color: #FFF;
     margin-bottom: 1rem;
     font-size: 1.5rem;
+    font-weight: 400;
 }
 
 .rating-description {
@@ -201,7 +202,7 @@ body {
     }
 
     .rating-title {
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
 
     .rating-description {
